@@ -16,3 +16,9 @@ cvxopt-II: https://see.stanford.edu/Course/EE364B
 ## Mathematical Statistics
 
 - Hogg, R. V., McKean, J. W., & Craig, A. T. (2013). Introduction to mathematical statistics. Pearson Education India.
+
+## Game Theory
+
+- Dantzig, G. B. (1956). Constructive proof of the Min-Max theorem. [Paper](dantzig-paper)
+
+[dantzig-paper]: https://projecteuclid.org/journals/pacific-journal-of-mathematics/volume-6/issue-1/Constructive-proof-of-the-Min-Max-theorem/pjm/1103044237.pdf
