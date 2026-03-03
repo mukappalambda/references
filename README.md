@@ -6,8 +6,8 @@
 - Boyd, S., & Vandenberghe, L. (2004). Convex optimization. Cambridge university press.
 - Stanford Engineering Everywhere | Convex Optimization [cvxopt-I], [cvxopt-II]
 
-cvxopt-I: https://see.stanford.edu/Course/EE364A
-cvxopt-II: https://see.stanford.edu/Course/EE364B
+[cvxopt-I]: https://see.stanford.edu/Course/EE364A
+[cvxopt-II]: https://see.stanford.edu/Course/EE364B
 
 ## Linear Algebra
 
