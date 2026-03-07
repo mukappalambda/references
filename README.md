@@ -13,6 +13,10 @@
 
 - [Linear Algebra for Programmers](https://www.linearalgebraforprogrammers.com/)
 
+## Probability
+
+- Thorp, E. O. (2011). Understanding the Kelly criterion. In The Kelly capital growth investment criterion: theory and practice (pp. 509-523).
+
 ## Mathematical Statistics
 
 - Hogg, R. V., McKean, J. W., & Craig, A. T. (2013). Introduction to mathematical statistics. Pearson Education India.
