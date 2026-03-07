@@ -16,6 +16,7 @@
 ## Analysis
 
 - Rudin, W. (1964). Principles of mathematical analysis.
+- Wheeden, R. L., & Zygmund, A. (1977). Measure and integral (Vol. 26). New York: Dekker.
 
 ## Probability
 
