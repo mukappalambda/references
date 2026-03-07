@@ -13,6 +13,10 @@
 
 - [Linear Algebra for Programmers](https://www.linearalgebraforprogrammers.com/)
 
+## Analysis
+
+- Rudin, W. (1964). Principles of mathematical analysis.
+
 ## Probability
 
 - Chung, K. L. (1974). A course in probability theory. Probability and mathematical statistics.
