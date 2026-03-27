@@ -21,6 +21,7 @@
 ## Probability
 
 - Chung, K. L. (1974). A course in probability theory. Probability and mathematical statistics.
+- Brzeźniak, Z., & Zastawniak, T. (1999). Basic stochastic processes: a course through exercises. Springer.
 - Thorp, E. O. (2011). Understanding the Kelly criterion. In The Kelly capital growth investment criterion: theory and practice (pp. 509-523).
 
 ## Mathematical Statistics
